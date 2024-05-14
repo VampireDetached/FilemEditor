@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>test.mp4</file>
+        <file>brouse.png</file>
+        <file>pause.png</file>
+    </qresource>
+</RCC>
